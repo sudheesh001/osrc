@@ -1,10 +1,10 @@
-The Open Source Report Card
+The GitHub User Report Card
 ===========================
 
-This is my submission to the
-[GitHub data challenge](https://github.com/blog/1450-the-github-data-challenge-ii).
-Take a look at the [live demo](http://osrc.dfm.io) for a description of the project
-and a view of what the results look like.
+Lets get to the point.
+```
+Built in : Python
+```
 
 Running the analysis yourself
 -----------------------------
@@ -43,5 +43,5 @@ The web app is a [Flask](http://flask.pocoo.org/) app that is defined in `osrc/_
 License & Credits
 -----------------
 
-The Open Source Report Card was created by [Dan Foreman-Mackey](http://dan.iel.fm) and it is
+The Open Source Report Card was created by [Dan Foreman-Mackey](http://dan.iel.fm) and edited by [Sudheesh Singanamalla](https://github.com/sudheesh001)
 made available under the [MIT License](https://github.com/dfm/osrc/blob/master/LICENSE).
